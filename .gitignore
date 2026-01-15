@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# Local settings
+config.py
+settings.py
+
+# IDEs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tests / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# SQLite
+*.sqlite3
+
+# Telegram bot files
+*.session
+*.session-journal
+
+# Temp files
+*.tmp
+*.bak
